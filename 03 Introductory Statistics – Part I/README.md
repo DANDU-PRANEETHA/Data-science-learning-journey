@@ -1,4 +1,4 @@
-# 03_Basic_Statistics
+# 03 Introductory Statistics – Part I
 
 ## 📌 Module Overview
 This module introduces **basic statistical concepts** required for data analysis.  
@@ -63,6 +63,6 @@ It focuses on understanding data distributions, central tendency, and variabilit
 ---
 
 ## 🔜 Next Module
-➡️ **04_Exploratory_Data_Analysis**
+➡️ **04 Introductory Statistics – Part II**
 
 This module focuses on visualizing and exploring datasets to uncov
