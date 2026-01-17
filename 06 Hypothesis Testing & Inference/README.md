@@ -65,7 +65,7 @@ Hypothesis testing helps determine whether observed results are **statistically 
 ---
 
 ## 🔜 Next Module
-➡️ **07_Logistic_Regression**
+➡️ **07 Multiple Linear Regressionn**
 
 The next module focuses on Logistic Regression, a fundamental classification algorithm used to predict categorical outcomes.
 
